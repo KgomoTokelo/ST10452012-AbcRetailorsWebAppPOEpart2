@@ -2,6 +2,11 @@
 @{
     ViewData["Title"] = "Home";
 }
+@{
+    ViewData["Title"] = "Products";
+    bool isCustomer = User.IsInRole("Customer");
+    bool isAdmin = User.IsInRole("Admin");
+}
 
 <!-- Tailwind CDN (if not already included in your layout) -->
 <script src="https://cdn.tailwindcss.com"></script>
@@ -16,12 +21,13 @@
             <span>Welcome to ABC Retailers!</span>
         </h1>
         <p class="mt-3 text-gray-600 text-lg">
-            🌟 Your one-stop shop for <span class="font-semibold text-indigo-500">unbeatable deals</span> and the latest trends.
+             Your one-stop shop for <span class="font-semibold text-indigo-500">unbeatable deals</span> and the latest trends.
         </p>
     </div>
 
     <!-- Quick Actions -->
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+         @if (isAdmin){
         <a asp-controller="Customer" asp-action="Index"
            class="bg-gradient-to-br from-indigo-500 to-blue-600 hover:from-blue-600 hover:to-indigo-700
                   text-white rounded-2xl shadow-lg transform hover:-translate-y-1 transition-all duration-200
@@ -30,6 +36,76 @@
             <span class="text-lg font-semibold">Customers</span>
             <small class="text-white/80 mt-1">(@Model?.CustomerCount)</small>
         </a>
+
+        <a asp-controller="Product" asp-action="Index"
+           class="bg-gradient-to-br from-green-400 to-emerald-600 hover:from-emerald-600 hover:to-green-700
+                  text-white rounded-2xl shadow-lg transform hover:-translate-y-1 transition-all duration-200
+                  flex flex-col items-center justify-center py-8">
+            <i class="fa-solid fa-boxes-stacked fa-2x mb-3"></i>
+            <span class="text-lg font-semibold">Products</span>
+            <small class="text-white/80 mt-1">(@Model?.ProductCount)</small>
+        </a>
+
+        <a asp-controller="Order" asp-action="Index"
+           class="bg-gradient-to-br from-amber-400 to-orange-500 hover:from-orange-500 hover:to-amber-600
+                  text-white rounded-2xl shadow-lg transform hover:-translate-y-1 transition-all duration-200
+                  flex flex-col items-center justify-center py-8">
+            <i class="fa-solid fa-cart-shopping fa-2x mb-3"></i>
+            <span class="text-lg font-semibold">Orders</span>
+            <small class="text-white/80 mt-1">(@Model?.OrderCount)</small>
+        </a>
+
+        <a asp-controller="Upload" asp-action="Index"
+           class="bg-gradient-to-br from-teal-400 to-cyan-600 hover:from-cyan-600 hover:to-teal-700
+                  text-white rounded-2xl shadow-lg transform hover:-translate-y-1 transition-all duration-200
+                  flex flex-col items-center justify-center py-8">
+            <i class="fa-solid fa-cloud-arrow-up fa-2x mb-3"></i>
+            <span class="text-lg font-semibold">Uploads</span>
+            <small class="text-white/80 mt-1">(Payment Proofs)</small>
+        </a>
+    
+
+        }
+
+        @if (isCustomer)
+        {
+            <a asp-controller="Product" asp-action="Index"
+               class="bg-gradient-to-br from-green-400 to-emerald-600 hover:from-emerald-600 hover:to-green-700
+                      text-white rounded-2xl shadow-lg transform hover:-translate-y-1 transition-all duration-200
+                      flex flex-col items-center justify-center py-8">
+                <i class="fa-solid fa-boxes-stacked fa-2x mb-3"></i>
+                <span class="text-lg font-semibold">Products</span>
+                <small class="text-white/80 mt-1">(@Model?.ProductCount)</small>
+            </a>
+
+            <a asp-controller="Order" asp-action="Index"
+               class="bg-gradient-to-br from-amber-400 to-orange-500 hover:from-orange-500 hover:to-amber-600
+                      text-white rounded-2xl shadow-lg transform hover:-translate-y-1 transition-all duration-200
+                      flex flex-col items-center justify-center py-8">
+                <i class="fa-solid fa-cart-shopping fa-2x mb-3"></i>
+                <span class="text-lg font-semibold">Orders</span>
+                <small class="text-white/80 mt-1">(@Model?.OrderCount)</small>
+            </a>
+
+            <a asp-controller="Upload" asp-action="Index"
+               class="bg-gradient-to-br from-teal-400 to-cyan-600 hover:from-cyan-600 hover:to-teal-700
+                      text-white rounded-2xl shadow-lg transform hover:-translate-y-1 transition-all duration-200
+                      flex flex-col items-center justify-center py-8">
+                <i class="fa-solid fa-cloud-arrow-up fa-2x mb-3"></i>
+                <span class="text-lg font-semibold">Uploads</span>
+                <small class="text-white/80 mt-1">(Payment Proofs)</small>
+            </a>
+        
+        }
+
+        <a asp-controller="Customer" asp-action="Index"
+           class="bg-gradient-to-br from-indigo-500 to-blue-600 hover:from-blue-600 hover:to-indigo-700
+                  text-white rounded-2xl shadow-lg transform hover:-translate-y-1 transition-all duration-200
+                  flex flex-col items-center justify-center py-8">
+            <i class="fa-solid fa-users fa-2x mb-3"></i>
+            <span class="text-lg font-semibold">Customers</span>
+            <small class="text-white/80 mt-1">(@Model?.CustomerCount)</small>
+        </a> 
 
         <a asp-controller="Product" asp-action="Index"
            class="bg-gradient-to-br from-green-400 to-emerald-600 hover:from-emerald-600 hover:to-green-700

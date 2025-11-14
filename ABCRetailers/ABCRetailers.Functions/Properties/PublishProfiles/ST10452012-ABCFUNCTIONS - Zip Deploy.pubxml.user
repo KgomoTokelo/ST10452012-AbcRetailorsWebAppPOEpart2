@@ -2,7 +2,7 @@
 <!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
 <Project>
   <PropertyGroup>
-    <History>True|2025-10-06T10:15:01.0496248Z||;True|2025-10-06T12:00:08.6794491+02:00||;True|2025-10-06T11:56:12.1523949+02:00||;True|2025-10-06T10:50:38.2457313+02:00||;</History>
+    <History>False|2025-11-13T14:17:51.8726908Z||;True|2025-10-06T12:15:01.0496248+02:00||;True|2025-10-06T12:00:08.6794491+02:00||;True|2025-10-06T11:56:12.1523949+02:00||;True|2025-10-06T10:50:38.2457313+02:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

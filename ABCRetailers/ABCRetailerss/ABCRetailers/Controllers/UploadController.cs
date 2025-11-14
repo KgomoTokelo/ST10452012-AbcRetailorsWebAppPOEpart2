@@ -4,6 +4,7 @@ using ABCRetailers.Services;
 
 namespace ABCRetailers.Controllers
 {
+  
     public class UploadController : Controller
     {
         private readonly IFunctionsApi _api;

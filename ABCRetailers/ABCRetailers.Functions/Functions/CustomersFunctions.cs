@@ -15,7 +15,7 @@ public class CustomersFunctions
 
     public CustomersFunctions(IConfiguration cfg)
     {
-        _conn = "DefaultEndpointsProtocol=https;AccountName=cloudjohnnytuks;AccountKey=yAmhVanBmZqh3mWwwRIuuo4JQsvRxYj9/C8tRueSmqGkjBmyDlQuONTw1ATMjQ/4kUd7e1RWGA8L+AStwpLscA==;EndpointSuffix=core.windows.net";
+        _conn = "DefaultEndpointsProtocol=https;AccountName=st10452012poe;AccountKey=Mjbl4mUtJvRcwIKVfrAemARi9r7nshwYzOlYWCzTpZeADmUyY7epj8dbvWCBeTWoRVJtQz/+bdSg+AStzWoDug==;EndpointSuffix=core.windows.net";
         _table = cfg["TABLE_CUSTOMER"] ?? "Customer";
     }
 

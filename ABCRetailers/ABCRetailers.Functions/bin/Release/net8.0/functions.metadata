@@ -462,7 +462,7 @@
         "type": "queueTrigger",
         "dataType": "String",
         "queueName": "%QUEUE_STOCK_UPDATES%",
-        "connection": "DefaultEndpointsProtocol=https;AccountName=cloudjohnnytuks;AccountKey=yAmhVanBmZqh3mWwwRIuuo4JQsvRxYj9/C8tRueSmqGkjBmyDlQuONTw1ATMjQ/4kUd7e1RWGA8L\u002BAStwpLscA==;EndpointSuffix=core.windows.net",
+        "connection": "STORAGE_CONNECTION",
         "properties": {}
       }
     ]

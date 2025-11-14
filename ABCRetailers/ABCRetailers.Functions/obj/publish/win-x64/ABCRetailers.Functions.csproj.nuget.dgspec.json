@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab_services_student\\Desktop\\ABCRetailerscrTWJ\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj": {}
+    "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab_services_student\\Desktop\\ABCRetailerscrTWJ\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj": {
+    "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailerscrTWJ\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj",
         "projectName": "ABCRetailers.Functions",
-        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailerscrTWJ\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj",
+        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailerscrTWJ\\ABCRetailers.Functions\\obj\\publish\\win-x64\\",
+        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailers.Functions\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,6 +65,10 @@
             "Azure.Storage.Queues": {
               "target": "Package",
               "version": "[12.17.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
             },
             "Microsoft.AspNetCore.WebUtilities": {
               "target": "Package",

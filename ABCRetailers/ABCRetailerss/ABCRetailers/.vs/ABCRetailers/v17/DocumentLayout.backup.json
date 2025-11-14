@@ -1,10 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\adeol\\Desktop\\Semester2\\CLDV6212\\ABCRetailers\\",
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\adeol\\desktop\\semester2\\cldv6212\\abcretailers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\lab_services_student\\desktop\\abcretailorswebapppoepart2\\abcretailers\\abcretailerss\\abcretailers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\lab_services_student\\desktop\\abcretailorswebapppoepart2\\abcretailers\\abcretailerss\\abcretailers\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\lab_services_student\\desktop\\abcretailorswebapppoepart2\\abcretailers\\abcretailerss\\abcretailers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\lab_services_student\\desktop\\abcretailorswebapppoepart2\\abcretailers\\abcretailerss\\abcretailers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\lab_services_student\\desktop\\abcretailorswebapppoepart2\\abcretailers\\abcretailerss\\abcretailers\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\lab_services_student\\desktop\\abcretailorswebapppoepart2\\abcretailers\\abcretailerss\\abcretailers\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\lab_services_student\\desktop\\abcretailorswebapppoepart2\\abcretailers\\abcretailerss\\abcretailers\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\lab_services_student\\desktop\\abcretailorswebapppoepart2\\abcretailers\\abcretailerss\\abcretailers\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\lab_services_student\\desktop\\abcretailorswebapppoepart2\\abcretailers\\abcretailerss\\abcretailers\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\lab_services_student\\desktop\\abcretailorswebapppoepart2\\abcretailers\\abcretailerss\\abcretailers\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|c:\\users\\lab_services_student\\desktop\\abcretailorswebapppoepart2\\abcretailers\\abcretailerss\\abcretailers\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE064264-56BC-489B-8BB7-978091170E71}|ABCRetailers.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +54,160 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\adeol\\Desktop\\Semester2\\CLDV6212\\ABCRetailers\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\adeol\\Desktop\\Semester2\\CLDV6212\\ABCRetailers\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-29T16:50:02.838Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T20:58:05.231Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T20:53:00.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:48:17.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:44:11.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:43:58.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:43:40.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:42:27.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:41:19.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:41:00.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:32:53.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailerss\\ABCRetailers\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T16:50:02.838Z"
             }
           ]
         }

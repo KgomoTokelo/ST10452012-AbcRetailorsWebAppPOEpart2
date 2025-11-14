@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IhI+zAosBSA=",
+  "dgSpecHash": "vD1RtoGi00U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailerscrTWJ\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj",
+  "projectFilePath": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lab_services_student\\.nuget\\packages\\azure.core\\1.43.0\\azure.core.1.43.0.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\azure.data.tables\\12.9.1\\azure.data.tables.12.9.1.nupkg.sha512",
@@ -16,6 +16,10 @@
     "C:\\Users\\lab_services_student\\.nuget\\packages\\grpc.net.client\\2.60.0\\grpc.net.client.2.60.0.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\grpc.net.clientfactory\\2.60.0\\grpc.net.clientfactory.2.60.0.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\grpc.net.common\\2.60.0\\grpc.net.common.2.60.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.3.0\\microsoft.aspnetcore.mvc.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.3.0\\microsoft.aspnetcore.routing.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.azure.functions.worker\\1.22.0\\microsoft.azure.functions.worker.1.22.0.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.azure.functions.worker.core\\1.18.0\\microsoft.azure.functions.worker.core.1.18.0.nupkg.sha512",
@@ -75,7 +79,7 @@
     "C:\\Users\\lab_services_student\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\system.text.json\\6.0.9\\system.text.json.6.0.9.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
@@ -84,9 +88,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "ABCRetailers.Functions depends on Azure.Storage.Files.Shares (>= 12.18.1) but Azure.Storage.Files.Shares 12.18.1 was not found. Azure.Storage.Files.Shares 12.19.0 was resolved instead.",
-      "projectPath": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailerscrTWJ\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj",
+      "projectPath": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailerscrTWJ\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj",
+      "filePath": "C:\\Users\\lab_services_student\\Desktop\\AbcRetailorsWebAppPOEpart2\\ABCRetailers\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj",
       "libraryId": "Azure.Storage.Files.Shares",
       "targetGraphs": [
         "net8.0",
